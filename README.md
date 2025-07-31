@@ -1,0 +1,2 @@
+# RNN-DVIB
+Code for AAAI2026
