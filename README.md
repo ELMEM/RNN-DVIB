@@ -45,7 +45,7 @@ Use the `Net_Type` parameter to set the model type, where:
 - `'C'` represents ConvTran  
 - `'F'` represents LSTM-FCN  
 - `'E'` represents MLSTM-FCN
-To reproduce the **Log-Neural-CDE** results, you can use the following GitHub repository:  
+- To reproduce the **Log-Neural-CDE** results, you can use the following GitHub repository:  
 
 🔗 [Benjamin-Walker/Log-Neural-CDEs](https://github.com/Benjamin-Walker/Log-Neural-CDEs)  
 
