@@ -47,9 +47,5 @@ Use the `Net_Type` parameter to set the model type, where:
 - `'E'` represents MLSTM-FCN
 - To reproduce the **Log-Neural-CDE** results, you can use the following GitHub repository:  
 
-🔗 [Benjamin-Walker/Log-Neural-CDEs](https://github.com/Benjamin-Walker/Log-Neural-CDEs)  
-
-### Usage Notes:  
-- The repository contains the official implementation of **Log-NCDE**.  
-- Follow the provided instructions to replicate the experimental results.  
+🔗 [Benjamin-Walker/Log-Neural-CDEs](https://github.com/Benjamin-Walker/Log-Neural-CDEs)   
 
